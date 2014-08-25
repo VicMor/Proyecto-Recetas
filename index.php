@@ -36,7 +36,7 @@
 <body>
 	<div class="log2">	
 	<img src="media/escudo.png"/>
-	<p>El recetario </p>
+	<p>"El recetario" </p>
 	</div>	
 
 	<div class="log">			
